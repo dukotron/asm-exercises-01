@@ -55,11 +55,10 @@ Commit your solution at the end of each exercise.*
 
 6. Hello World (or turn on a led)
     * Open the "HelloWorld" Atmel Studio project.
-    * Make sure that port a and the leds are connected
     * Build the project, and program the arduino
     * Verify that the buildin led got turned on
 
-1. Connect a LED to a digital pin (fe sure to place it in serial with a resistor). Try to modify the program so that this led is turned on instead  
+1. Connect a LED to a digital pin (be sure to place it in serial with a resistor). Try to modify the program so that this led is turned on instead  
     (commit changes when done)
 
 1. Modify the program so that the led is turned on and off continuously.  
