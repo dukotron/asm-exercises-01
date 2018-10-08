@@ -6,6 +6,6 @@
 ;
 
 	ldi r16, 42
-	ldi r17, $33
+	ldi r17, 0x33
 	ldi r18, 0b1011_0010
 	nop
