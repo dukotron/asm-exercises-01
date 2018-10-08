@@ -1,0 +1,2 @@
+With LDI we can load data from register r16 to r31.
+The relation between the registers and the 16-bit opcode for LDI is that the opcode contains the register location in 4 of its 8 bits.
